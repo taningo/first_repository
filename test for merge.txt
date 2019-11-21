@@ -1,2 +1,6 @@
 just for test
+<<<<<<< HEAD
 some lokal changes now
+=======
+what if i do some changes here
+>>>>>>> c48e3992f865ff02988c55b1d61aa7a124c900d3
